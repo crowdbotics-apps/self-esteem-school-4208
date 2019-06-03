@@ -1,0 +1,3 @@
+rootProject.name = 'self_esteem_school_4208'
+
+include ':app'
